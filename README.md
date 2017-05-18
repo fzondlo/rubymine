@@ -1,6 +1,9 @@
 # rubymine
 
     git clone https://github.com/fzondlo/rubymine-config.git ~/rubymine-config
+    ln -s ~/rubymine-config/ideavimrc ~/.ideavimrc
+    
+Install acejump and ideavim plugins
 
 Download karabiner elements : https://pqrs.org/latest/karabiner-elements-latest.dmg
 
