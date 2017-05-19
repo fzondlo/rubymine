@@ -15,3 +15,6 @@ Open Karabiner, click the reload XML button, and check the top 3 Disable Logout,
 Last step, open ruby mine and do File, Import Settings, and select `~/rubymine-config/settings.jar`
 
 All done!
+
+Some short cuts:
+https://paper.dropbox.com/doc/Rubymine-otezCbxN5TQeG0aHpDo5C
