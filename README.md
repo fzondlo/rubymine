@@ -5,7 +5,7 @@
     
 Install acejump and ideavim plugins
 
-Download karabiner elements : https://pqrs.org/latest/karabiner-elements-latest.dmg
+Download the latest karabiner : https://pqrs.org/osx/karabiner/
 
     rm ~/Library/Application\ Support/Karabiner/private.xml
     ln -s ~/rubymine-config/karabiner/private.xml ~/Library/Application\ Support/Karabiner/private.xml
