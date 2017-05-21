@@ -10,6 +10,7 @@ map <leader>w :action EditorSelectWord<CR>
 map <leader>[ :action EditorCodeBlockStart<CR>
 map <leader>] :action EditorCodeBlockEnd<CR>
 map <leader>j :action AceAction<CR>
+map <leader>l :action AceLineAction<CR>
 map <leader>q :action VimWindowClose<CR>
 
 " window switching (mapped in GUI, dunno how to map <cmd>)
